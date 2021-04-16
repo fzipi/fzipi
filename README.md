@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Felipe
+
+- 🔭 I’m currently working on getting a faster WAF testing framework
+- 💬 Ask me about anything related to Web Application Firewalls, in particular, the amazing [coreruleset](https://coreruleset.org)
 
 <!--
 **fzipi/fzipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://github-readme-stats.vercel.app/api?username=fzipi&show_icons=true&hide_border=true
