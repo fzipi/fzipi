@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Felipe
 
-- 🔭 I’m currently working on getting a faster WAF testing framework
-- 💬 Ask me about anything related to Web Application Firewalls, in particular, the amazing [coreruleset](https://coreruleset.org)
+- 🔭 I’m currently working on:
+  - Creating a new basic _Universal Security Language_ for using in Web Aplication Firewalls
+  - A Transpiler from said language to _SecRule_ languas
+- 💬 Ask me about anything related to Web Application Firewall Rules, in particular, the amazing [coreruleset](https://coreruleset.org)
 
 <!--
 **fzipi/fzipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
